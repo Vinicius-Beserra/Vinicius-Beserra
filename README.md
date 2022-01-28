@@ -1,14 +1,14 @@
-<div align="center">
- <h1>Oi Tudo bem? Eu sou o Leonardo Costa 😃</h1>
+<div align="left">
+ <h1>Olá Tudo bem? Eu sou o Vinícius Beserra 😃</h1>
  
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-costa-3558801b4/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_leonardo.s_c/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-beserra-araujo//)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 <div>
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dev-Leonardo-Costa&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leonardo-Costa&theme=merko&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Vinicius-Beserra">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Beserra&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Beserra&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 
-### Tecnologias que eu tive experiência, que uso no meu dia 
+### Tecnologias que eu já tive experiência, e que uso no meu dia. 
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,11 +38,11 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </div><br/>
 
-### 📚-Estudando na Faculdade CDL, Analise e Desenvolvimento de Sistema. 
+### 📚-Graduando em Analise e Desenvolvimento de Sistema, pela Estácio - FIC. 
 
-### 🖥️-Foco Em Desenvolvimento Web.  
+### 🖥️-Atualmente, em foco em Desenvolvimento back-End.  
 
-### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez.
+### 🦅- Nem todo mundo que trabalhou arduamente teve sucesso, mas todo mundo que teve sucesso, trabalhou arduamente.
 
-### 🥰-Apaixonado Por Tecnologia, Educação E Por Mudar A Vida Das Pessoas Através Da Programação. 
+### 🥰-Apaixonado Por Tecnologia, sempre buscando aprimorar meus conhecimentos nas ferramentas que são tendencias no mercado. 
 </div>
