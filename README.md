@@ -5,12 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-beserra-araujo//)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
+<!-- 
 <div>
   <a href="https://github.com/Vinicius-Beserra">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Beserra&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Beserra&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
+-->
 
 <div>
   
